@@ -1,1 +1,1 @@
-# LMS-PORTAL-API
+# LMS-PORTAL-API(Learning management system)
